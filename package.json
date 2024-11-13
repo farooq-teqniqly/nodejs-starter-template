@@ -1,0 +1,28 @@
+{
+  "name": "nodejs-starter-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "format": "prettier --write .",
+    "lint": "eslint src --fix "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/farooq-teqniqly/nodejs-starter-template.git"
+  },
+  "author": "farooq-teqniqly",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/farooq-teqniqly/nodejs-starter-template/issues"
+  },
+  "homepage": "https://github.com/farooq-teqniqly/nodejs-starter-template#readme",
+  "devDependencies": {
+    "@eslint/js": "^9.14.0",
+    "eslint": "^9.14.0",
+    "globals": "^15.12.0",
+    "prettier": "^3.3.3"
+  }
+}
