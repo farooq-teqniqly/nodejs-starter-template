@@ -16,3 +16,15 @@ Use the template by following these steps:
 3. Select an owner and name for your new repository
 4. Click Create repository
 5. Clone your new repository
+
+## WebStorm Users
+
+If you're using WebStorm, follow these steps to resolve missing import warnings in tests:
+
+1. Click **File > Settings**
+2. Expand **Languages & Frameworks**
+3. Expand **JavaScript**
+4. Click **Libraries**
+5. Click the **Download** button on the right.
+6. Scroll down until use see **Jest**.
+7. Select **Jest** then click **Download and Install**
